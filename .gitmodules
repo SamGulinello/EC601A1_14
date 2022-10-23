@@ -1,0 +1,3 @@
+[submodule "simphony"]
+	path = simphony
+	url = https://github.com/BYUCamachoLab/simphony
