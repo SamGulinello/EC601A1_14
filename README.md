@@ -11,14 +11,14 @@ Simulation and test benchmarks showing the difference between FPGA and Optical P
 
 ### Simulation and Hardware Options
 1. Simphony
-1. Simulates photonic circuit in Python
-2. Open source software that is frequently being updated 
+- Simulates photonic circuit in Python
+- Open source software that is frequently being updated 
 2. Noxim
-1. Simulates photonic circuit in C++
-2. Open source software that is not frequently being updated
+- Simulates photonic circuit in C++
+- Open source software that is not frequently being updated
 3. FPGA
-1. Electronic Circuit
-2. Easy to Obtain
+- Electronic Circuit
+- Easy to Obtain
 
 ### Next Sprint Goals
 1. Research and Acquire Necessary Hardware
