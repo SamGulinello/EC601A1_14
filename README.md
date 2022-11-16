@@ -45,3 +45,7 @@ Using an MZI we have now simulated a laser being shot into the device and record
 
 ![Graph](Images/MZIGraph.png)
 
+## Sprint 4
+The main goal of this sprint ended up being the production of a working demo. By the end of the sprint we were able to demo simple addition using a photonic device. Using Simphony we can point two lasers of varying powers (in Watts) and combine the two beams. The Power of that combined beam is the sum of the two input lasers. There is some power loss in the combination and not all sums seems to work. This will be something we need to focus on fixing going forward.
+
+![Combiner](Images/combiner.png)
