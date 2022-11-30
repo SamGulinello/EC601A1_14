@@ -2,7 +2,7 @@
 Simulated Photonic Circuit Capable of Adding Two Numbers
 There is still a rounding error from power loss, but now there is a graph of what's happening
 
-*If you change either of the values for num1 or num2 to 0 it flips the y-branch and splits the laser. Will fix this tomorrow*
+*If you change either of the values for num1 or num2 to 0 it flips the y-branch and splits the value of the laser in half. Will fix this tomorrow*
 """
 
 
