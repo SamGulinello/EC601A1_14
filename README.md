@@ -1,5 +1,5 @@
 # EC601A1_14
-EC601 semester long research project simulating the use of photonics to compute matrix multiplications. This repo hosts the work and research done by its contributors throughout the Fall 2022 semester. This project has ended but if you have feedback, advise, and any helpful tidbits of knowledge I would be very happy to hear from you. My email is samgul@bu.edu. 
+EC601 semester long research project simulating the use of photonics to compute matrix multiplications. This repo hosts the work and research done by its contributors throughout the Fall 2022 semester. This project has ended but if you have feedback, advise, and any helpful tidbits of knowledge I would be very happy to hear from you. My email is samgul@bu.edu 
 
 
 ## Sprint 1
@@ -51,7 +51,7 @@ The main goal of this sprint ended up being the production of a working demo. By
 ![Combiner](Images/combiner.png)
 
 ## Final Sprint
-This is the final push. Below is a copy of the poster we made at for the presentations and it describes the research that was conducted throughout the semester. THE SIMPHONY SIMULATIONS ARE NOT COMPLETE. We have concluded that Simphony was not the correct tool to try and simulate this matrix multiplication. It's lack of data on component properties as well as its inability to perform phase shifts without changing WaveGuide length made it an inadequate tool for what we needed it to be. The goal was to be able to give a simulated MZI two matrices and have it return the dot product. That was not achieved with the scripts above. Maybe with some more time, knowledge, and better simulation tools we could achieve that goal. For now we have produced a poster that describes the theory of silicon photonics as well as built the optical components using Python. That is all that will be completed this semester
+This is the final push. Below is a copy of the poster we made at for the presentations and it describes the research that was conducted throughout the semester. THE SIMPHONY SIMULATIONS ARE NOT COMPLETE. We have concluded that Simphony was not the correct tool to try and simulate this matrix multiplication. It's lack of data on component properties as well as its inability to perform phase shifts without changing WaveGuide length made it an inadequate tool for what we needed it to be. The goal was to be able to give a simulated MZI two matrices and have it return the dot product. That was not achieved with the scripts above. Maybe with some more time, knowledge, and better simulation tools we could achieve that goal. For now we have produced a poster that describes the theory of silicon photonics as well as built the optical components using Python. That is all that will be completed this semester.
 
 ![Final Poster](Images/A2_14%20Poster.png)
 
